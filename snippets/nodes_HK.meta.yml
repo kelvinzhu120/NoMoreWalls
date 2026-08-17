@@ -57,6 +57,14 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- name: 🇭🇰HK_1|2.7MB/s
+  password: 13f0acfa-38c1-4e82-a758-583aa31740df
+  port: 24318
+  server: yzany01.jdoanst2026.com
+  skip-cert-verify: true
+  sni: hk08.alytest.cc
+  type: anytls
+  udp: true
 - name: HK_speednode_0012
   password: BxceQaOe
   port: 27161
